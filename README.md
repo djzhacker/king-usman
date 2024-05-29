@@ -6,16 +6,16 @@ new repo
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
     </p>
-<h1 align="center">    ꪶKING-MD-BOTꫂ (ʙᴇᴛᴀ)
+<h1 align="center">    ꪶKING-USMAN-BOTꫂ (ʙᴇᴛᴀ)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Multi Device Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Multi Device Whatsapp Bot Create By Usman Shabbir To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/usmanshabbir"><img title="Author" src="https://img.shields.io/badge/KING_usman-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -26,28 +26,28 @@ new repo
 
 
    <p align="center">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <a href="https://github.com/naveeddogar/KING-USMAN/fork">
+    <img src="https://img.shields.io/github/forks/djzhacker/KING-USMAN?label=Fork&style=social">
    
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/djzhackerr/KING-USMAN/stargazers">
+    <img src="https://img.shields.io/github/stars/djzhacker/KING-USMAN?style=social">
       
 
  <p align="center">
-  <a href="https://github.com/naveeddogar">
-    <img src="https://img.shields.io/badge/OWNER-naveeddogar-black?style=social&logo=github&label=Owner">
+  <a href="https://github.com/djzhacker">
+    <img src="https://img.shields.io/badge/OWNER-usmanshabbir-black?style=social&logo=github&label=Owner">
    
-  <a href="https://github.com/naveeddogar/KING-MD/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/djzhacker/KING-USMAN/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/djzhacke/KIrNG-USMAN?style=social">
    
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{usmanshabbir}/count.svg" alt="usmanshabbir :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- <a href="https://tinyurl.com/Technical-Naveed-Official" target="_blank">
+ <a href="https://tinyurl.com/Technical-usman-Official" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -58,10 +58,10 @@ new repo
 
 
 ## 1 *`⨷ FORK THIS REPO`*
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
+<a href='https://github.com/djzhacker/KING-USMAN/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
 
 ## 2 *`⨷ SCAN OR PAIR QR`*
-<a href='https://king-md-session.onrender.com/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
+<a href='https://king-usman-session.onrender.com/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
 
 ## 3 *`⨷ NOW DEPLOY`*
 
